@@ -1,0 +1,51 @@
+{
+    "cardSize": {
+        "width": 120,
+        "height": 160
+    },
+    "cardCornerRadius": 8.0,
+    "cardBorderWidth": 2.0,
+    "cardBackTexturePath": "cards/back/card_back.png",
+    "cardFrontTexturePath": "cards/card_general.png",
+    "suitTexturePath": "cards/suits/",
+    "rankTexturePath": "cards/number/",
+    "cardBackColor": {
+        "r": 0.2,
+        "g": 0.4,
+        "b": 0.8,
+        "a": 1.0
+    },
+    "cardFrontColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+    },
+    "cardBorderColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+    },
+    "redSuitColor": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+    },
+    "blackSuitColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+    },
+    "rankFontPath": "fonts/Marker Felt.ttf",
+    "rankFontSize": 18,
+    "suitFontPath": "fonts/Marker Felt.ttf",
+    "suitFontSize": 24,
+    "flipAnimationDuration": 0.5,
+    "moveAnimationDuration": 0.3,
+    "scaleAnimationDuration": 0.2,
+    "themeName": "Default",
+    "themeDescription": "默认卡牌主题"
+}
